@@ -34,12 +34,8 @@ Created connections, joined new tables, and performed calculations to manipulate
 4. **Customized Visualizations**:
 Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
 
-**Acknowledgments**
 
-Special thanks to Rishabh Mishra for the valuable tutorials and guidance during the development of this project. You can find the tutorials here(https://www.youtube.com/watch?v=6cV3OwFrOkk&list=PLdOKnrf8EcP2ivbQIcVuknjdlUqkoprKo).
 
-We hope this dashboard provides valuable insights for Madhav Store's online sales strategy. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. 
-Happy analyzing!
 
 
 
